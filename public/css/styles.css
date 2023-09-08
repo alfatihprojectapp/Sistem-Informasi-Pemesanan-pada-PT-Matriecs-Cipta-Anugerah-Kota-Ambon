@@ -1,0 +1,18 @@
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgb(255, 255, 255);
+  background: #fdfdfde7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(87, 2, 61);;
+  border-radius: 50px;
+}
+
+button #badge:hover {
+  background-color: #5b6bff;
+}
